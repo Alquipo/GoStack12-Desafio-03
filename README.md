@@ -55,7 +55,7 @@ Terceiro desafio foi desenvolver uma página web onde mostra os dados de reposit
 ### Versão Final
 
 <h4 align="center">
-  <img alt="Update" title="Update" src=".github/updateVersion.gif" width="500px" />
+  <img alt="Update" title="Update" src=".github/UpdateVersion.gif" width="500px" />
 </h4>
 
 ## 🔨 Tecnologias:

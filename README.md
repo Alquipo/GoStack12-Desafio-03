@@ -28,7 +28,6 @@
   <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
 </a>
 
-
 </p>
 <h2 align="center">
   Desafio 03: Conceitos do React JS
@@ -50,13 +49,13 @@ Terceiro desafio foi desenvolver uma página web onde mostra os dados de reposit
 ### Original
 
 <h4 align="center">
-  <img alt="ExampleWeb" title="ExampleWeb" src=".github/OriginalVersion.gif" width="500px" />
+  <img alt="Original" title="Original" src=".github/originalVersion.gif" width="500px" />
 </h4>
 
 ### Versão Final
 
 <h4 align="center">
-  <img alt="ExampleWeb" title="ExampleWeb" src=".github/UpdateVersion.gif" width="500px" />
+  <img alt="Update" title="Update" src=".github/updateVersion.gif" width="500px" />
 </h4>
 
 ## 🔨 Tecnologias:

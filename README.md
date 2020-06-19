@@ -15,32 +15,57 @@
 </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
+
 </p>
 
 <p align="center">
-<a href="https://nodejs.org/en/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/aed2c3876a97dab0bdadd00ece0a12f9291d1dab/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4e6f6465266d6573736167653d4a5326636f6c6f723d626c75653f7374796c653d706c6173746963266c6f676f3d4e6f64652e6a73" alt="NodeJS" data-canonical-src="https://img.shields.io/static/v1?label=Node&amp;message=JS&amp;color=blue?style=plastic&amp;logo=Node.js" style="max-width:100%;">
-  </a>
 
-  <a href="https://reactjs.org/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/2fa18e428de4a1b7917b25f79b23633301dc152b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d5265616374266d6573736167653d4a5326636f6c6f723d626c75653f7374796c653d706c6173746963266c6f676f3d5265616374" alt="ReactJS" data-canonical-src="https://img.shields.io/static/v1?label=React&amp;message=JS&amp;color=blue?style=plastic&amp;logo=React" style="max-width:100%;">
-  </a>
+<a href="https://nodejs.org/en/">
+  <img alt="NodeJS" src="https://img.shields.io/static/v1?color=brightgreen&label=Node&message=JS&?style=plastic&logo=Node.js">
+</a>
+
+<a href="https://reactjs.org/">
+  <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
+</a>
+
 
 </p>
 <h2 align="center">
-  Desafio 03: Conceitos do React.js
+  Desafio 03: Conceitos do React JS
 </h2>
 
 ## 🚀 Sobre o desafio
 
-Terceiro desafio foi desenvolver uma pagina web onde mostra os dados de repositorio da `API` desenvolvida no [Desafio anterior][desafio2] os dados ficam salvos em um array, enquanto o servidor está sendo executado. Foi criado na página web a listagem dos repositórios, adição dos repositórios e a opção de deletar o repositório.
+Terceiro desafio foi desenvolver uma página web onde mostra os dados de repositório da `API` desenvolvida no [Desafio anterior][desafio2] os dados ficam salvos em um Array, enquanto o servidor está sendo executado. Foi criado na página web onde lista os repositórios, efetua adição aleatório de repositório e deletar o repositório.
+
+## 🎉 Melhorias
+
+    - Convertido todo o Projeto para TypeScript
+    - Refeito a interface do projeto para ficar acessível;
+    - Adicionado a visualização da url, techs e curtidas;
+    - Adicionado um botão para curtir o Repositório;
+
+## 🎨 Layout
+
+### Original
+
+<h4 align="center">
+  <img alt="ExampleWeb" title="ExampleWeb" src=".github/OriginalVersion.gif" width="500px" />
+</h4>
+
+### Versão Final
+
+<h4 align="center">
+  <img alt="ExampleWeb" title="ExampleWeb" src=".github/UpdateVersion.gif" width="500px" />
+</h4>
 
 ## 🔨 Tecnologias:
 
+- [TypeScript][typescript]
 - [ReactJS][reactjs]
 - [Axios][axios]
 - [Babel][babel]
-- [Webpack][webpack]]
+- [Webpack][webpack]
 
 ## 🚀 Como rodar este projeto
 
@@ -48,7 +73,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 O projeto e divido em duas partes:
 
-1. Back End [Repositório][desafio2]
+1. Back End ([Link do Rpositório][desafio2])
 2. Front End
 
 💡 E preciso efetuar o clone e seguir os passos de instalação do [Repositório da API][desafio2]
@@ -102,3 +127,4 @@ Feito com ❤️ por Alquipo Neto 👋🏽 [Entre em contato!](https://www.linke
 [rs]: https://rocketseat.com.br
 [license]: https://opensource.org/licenses/MIT
 [desafio2]: https://github.com/Alquipo/GoStack12-desafio-02
+[typescript]: https://www.typescriptlang.org/

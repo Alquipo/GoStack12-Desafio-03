@@ -6,34 +6,83 @@
 
 body {
   font-size: 14px;
+  background: hsla(220, 13%, 95%, 0.932);
 }
 
-div {
-  width: 100%;
-  margin: 20px;
+ul {
+  list-style: none;
 }
 
-div li {
+.container {
+  width: 80%;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.repositoryContainer {
+  background-color: #fff;
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  margin: 20px 0 10px 0;
+  padding: 10px 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.4);
 }
 
-div li + li {
-  margin-top: 15px;
+.repository-card h2 {
+  color: #242424;
+  display: inline;
+}
+
+.repositoryContainer a {
+  display: block;
+  margin-top: 5px;
+  color: #4d4d4d;
+}
+
+.test {
+  position: relative;
+}
+
+.repositoryContainer ul {
+  margin-top: 5px;
+}
+
+.repositoryContainer ul li {
+  display: inline-block;
+  margin-right: 5px;
+  padding: 5px 8px;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 25px;
+  background-color: #28a745;
+}
+
+.repositoryContainer p {
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.repositoryContainer button {
+  margin: 0 8px;
+  background: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 button {
-  background: #7159c1;
+  background: #007bff;
   color: #fff;
-  border: 0;
+  border: none;
   padding: 10px 15px;
   cursor: pointer;
   margin-top: 15px;
   font-weight: bold;
   font-size: 14px;
-}
-
-div li button {
-  margin: 0 15px;
-  background: #ca4949;
+  border-radius: 5px;
 }

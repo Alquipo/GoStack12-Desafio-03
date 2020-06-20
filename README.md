@@ -40,7 +40,7 @@ Terceiro desafio foi desenvolver uma página web onde mostra os dados de reposit
 ## 🎉 Melhorias
 
     - Convertido todo o Projeto para TypeScript
-    - Refeito a interface do projeto para ficar acessível;
+    - Refeito a interface do projeto para ficar um pouco melhor (não sou Designer)😊;
     - Adicionado a visualização da url, techs e curtidas;
     - Adicionado um botão para curtir o Repositório;
 
